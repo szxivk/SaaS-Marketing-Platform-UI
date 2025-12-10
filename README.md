@@ -1,8 +1,6 @@
 # My Landing Page Project (Next.js, TypeScript, React, Tailwind CSS)
 
-This project is a landing page I built primarily to practice TypeScript and React. While I used Next.js for project setup, the focus here is front-end development. Think of it as a practical exercise in applying my TypeScript and React skills.
-
-The design is modern and clean, leveraging the utility-first approach of Tailwind CSS. I've also incorporated some subtle animations using Framer Motion.
+This project is a pixel-perfect implementation of a modern SaaS landing page. It is engineered for performance and SEO, utilizing **Next.js** for static generation and **TypeScript** for type-safe reliability. The UI focuses on clean aesthetics and micro-interactions to enhance user engagement.
 
 ## Tech Stack
 
