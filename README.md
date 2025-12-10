@@ -4,20 +4,33 @@ This project is a pixel-perfect implementation of a modern SaaS landing page. It
 
 ## Tech Stack
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
 - **Next.js:** Used for project setup and static site generation.
 - **TypeScript:** Used for type safety and code maintainability.
 - **React:** The core UI library.
-- **Tailwind CSS:** For styling. (tailwind op)
+- **Tailwind CSS:** For styling.
 - **Framer Motion:** For animations.
+
+## Features
+
+- **Bento Grid Layout:** A modern, responsive grid showcasing feature highlights.
+- **Interactive Animations:** Smooth hover effects and transitions using Framer Motion.
+- **Mock Functionality Preview:** Visual representations of Calendar, Trello, and Slack integrations.
+- **Hero Section:** Clean design with email capture input.
 
 ## Next Steps
 
-This is currently a front-end only project. Responsiveness is planned, but I'll be focusing on backend development next. I intend to revisit this project later to implement full responsiveness and potentially integrate backend functionality.
+This is currently a front-end only project. Responsiveness is planned, but I'll be focusing on backend development next.
 
-## Check it out!
+**Future Updates:**
+- Implement full responsiveness.
+- Integrate backend functionality.
+- **Note:** I will execute these future updates using **Google Antigravity (Gemini Pro 3)** to test it out.
 
 ![full-page screenshot of the project](./public/screencapture-localhost-3000-2025-02-03-19_02_35.png)
-
 ![grid animation using framer motion](./public/features-grid=animation-Made-with-Clipchamp.gif)
 
 and more animations stuff
